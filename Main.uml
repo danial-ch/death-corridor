@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>ir.ac.kntu.Main</OriginalElement>
+  <nodes>
+    <node x="154.00000000000003" y="199.0">ir.ac.kntu.Soldier</node>
+    <node x="508.0" y="189.0">ir.ac.kntu.RandomHelper</node>
+    <node x="361.0" y="243.0">ir.ac.kntu.SniperRifle</node>
+    <node x="163.7976190476191" y="0.0">ir.ac.kntu.Gun</node>
+    <node x="174.1666666666667" y="452.0">ir.ac.kntu.gameLogic.GameLogic</node>
+    <node x="0.0" y="264.0">ir.ac.kntu.AssaultRifle</node>
+    <node x="204.6666666666667" y="663.0">ir.ac.kntu.Main</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="ir.ac.kntu.AssaultRifle" target="ir.ac.kntu.Gun">
+      <point x="0.0" y="-26.5" />
+      <point x="67.0" y="169.0" />
+      <point x="181.2976190476191" y="169.0" />
+      <point x="-52.5" y="69.5" />
+    </edge>
+    <edge source="ir.ac.kntu.SniperRifle" target="ir.ac.kntu.Gun">
+      <point x="0.0" y="-47.5" />
+      <point x="424.5" y="159.0" />
+      <point x="286.2976190476191" y="159.0" />
+      <point x="52.5" y="69.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.8839050131926122" x="364.0" y="369.0" />
+  <SelectedNodes>
+    <node>ir.ac.kntu.Soldier</node>
+    <node>ir.ac.kntu.RandomHelper</node>
+    <node>ir.ac.kntu.SniperRifle</node>
+    <node>ir.ac.kntu.Gun</node>
+    <node>ir.ac.kntu.gameLogic.GameLogic</node>
+    <node>ir.ac.kntu.AssaultRifle</node>
+    <node>ir.ac.kntu.Main</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
